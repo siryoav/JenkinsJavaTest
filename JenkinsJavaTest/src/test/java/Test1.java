@@ -6,7 +6,7 @@ public class Test1 {
 
 	@Test
 	public void test() throws Exception {
-		//fail("Not yet implemented");
+		fail("Not yet implemented");
 	}
 
 }
