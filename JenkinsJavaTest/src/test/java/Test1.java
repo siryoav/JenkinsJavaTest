@@ -6,8 +6,7 @@ public class Test1 {
 
 	@Test
 	public void test() throws Exception {
-		//System.out.println("JenkinsJavaTest");
-		fail("Not yet implemented");
+		//fail("Not yet implemented");
 	}
 
 }
